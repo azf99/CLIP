@@ -191,3 +191,6 @@ print(f"Accuracy = {accuracy:.3f}")
 ```
 
 Note that the `C` value should be determined via a hyperparameter sweep using a validation split.
+
+Note:
+For use in VQGAN-API
